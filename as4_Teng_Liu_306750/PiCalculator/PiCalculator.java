@@ -33,7 +33,7 @@ public class PiCalculator
         }
         pi = pi*4.;
         System.out.printf("----Final Pi is %.12f----\n",pi);
-   }
+   } 
     // ------------here is an example of the result------------
     // i= 1   Pi 2.666666666667   deno -1/ 3 
     // i= 2   Pi 3.466666666667   deno  1/ 5 
