@@ -1,9 +1,9 @@
 
 /**
- * Write a description of class PiCalculator here.
+ * Write a description of class ChangeSolution here.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (Teng Liu - 306750) 
+ * @version (Assignment.4.PiCalculator.10152017)
  */
 
 import java.math.BigDecimal;
