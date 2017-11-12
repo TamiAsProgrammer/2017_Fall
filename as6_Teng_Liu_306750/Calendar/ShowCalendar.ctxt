@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=firstWeekDay\ monthDayNumber
+comment1.target=int\ getWeekNumber(int,\ int)
+comment2.params=firstWeekDay\ weekCount\ monthDayNumber
+comment2.target=void\ printBodyDateNumber(int,\ int,\ int)
+comment3.params=year\ month
+comment3.target=int\ getFirstWeekDay(int,\ int)
+comment4.params=year\ month
+comment4.target=int\ getMonthDayNumber(int,\ int)
+comment5.params=year
+comment5.target=boolean\ isLeapYear(int)
+comment6.params=year\ month\ totalLength
+comment6.target=void\ printHeaderLine(int,\ int,\ int)
+comment7.params=numOfSpace
+comment7.target=void\ printSpace(int)
+numComments=8

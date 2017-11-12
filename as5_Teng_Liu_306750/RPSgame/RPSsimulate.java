@@ -27,6 +27,11 @@ public class RPSsimulate
             System.out.println("\nLet's play...");
             System.out.print("      Your turn, (ROCK=1, PAPER=2, SCISSORS=3): ");
             userChoose = input.nextInt();
+            if (userChoose > 3 || userChoose < 1)
+            {
+                System.out.print("      Your turn, (ROCK=1, PAPER=2, SCISSORS=3): ");
+                userChoose = input.nextInt();
+            }
             computerChoose = (int)(Math.random() * 3) + 1;
             
             // 1. turn the RPS number to string-Name -- ROCK=1, PAPER=2, SCISSORS=3

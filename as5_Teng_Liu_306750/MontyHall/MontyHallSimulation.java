@@ -13,7 +13,7 @@ public class MontyHallSimulation
 
         int placeCar;
         int firstGuess;
-        int finalGuess;
+        int finalGuess = -1;
         String goatInDoors = "";
         int hostOpen;
 

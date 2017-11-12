@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=n\ numbers
+comment1.target=int[]\ readNumberToArray(int,\ java.lang.String)
+comment2.params=n\ numbers
+comment2.target=boolean\ isMagicSquare(int,\ int[])
+comment3.params=n\ numbers
+comment3.target=int\ sumOfRow(int,\ int[])
+comment4.params=n\ numbers
+comment4.target=int\ sumOfColumn(int,\ int[])
+comment5.params=n\ numbers
+comment5.target=int\ sumOfDiagonal(int,\ int[])
+numComments=6
