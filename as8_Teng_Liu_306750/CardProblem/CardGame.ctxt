@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=args
+comment0.target=void\ main(java.lang.String[])
+comment1.params=deck
+comment1.target=void\ createDeckOfCard(java.util.ArrayList)
+comment2.params=deck
+comment2.target=void\ shuffleTheDeck(java.util.ArrayList)
+comment3.params=deck
+comment3.target=java.util.ArrayList[]\ dealPlayerHands(java.util.ArrayList)
+comment4.params=playerHands
+comment4.target=void\ displayHands(java.util.ArrayList[])
+comment5.params=deck
+comment5.target=void\ displayDeck(java.util.ArrayList)
+numComments=6
